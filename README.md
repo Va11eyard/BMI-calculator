@@ -17,20 +17,22 @@ This BMI (Body Mass Index) Calculator is a simple web application that allows us
  - Bootstrap
 
 ### Structure
-|-- BMI/
-|   |-- public/
-|   |   |-- css/
-|   |   |   |-- index.css
-|   |   |-- js/
-|   |   |   |-- index.js
-|   |-- routes/
-|   |   |-- bmiRoutes.js
-|   |-- views/
-|   |   |-- index.html
-|   |-- .gitignore
-|   |-- package.json
-|   |-- root.js
-|   |-- README.md
+\```
+├── BMI/
+│   ├── public/
+│   │   ├── css/
+│   │   │   ├── index.css
+│   │   ├── js/
+│   │   │   ├── index.js
+│   ├── routes/
+│   │   ├── bmiRoutes.js
+│   ├── views/
+│   │   ├── index.html
+│   ├── .gitignore
+│   ├── package.json
+│   ├── root.js
+│   └── README.md
+\```
 
     
 ### Installed npm
