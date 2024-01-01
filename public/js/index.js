@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', function () {
 	  fetch('/bmicalculator', {
 		method: 'POST',
 		headers: {
-		  'Content-Type': 'application/x-www-form-urlencoded', // Set the correct Content-Type
+		  'Content-Type': 'application/x-www-form-urlencoded',
 		},
 		body: new URLSearchParams(formData).toString(),
 	  })
