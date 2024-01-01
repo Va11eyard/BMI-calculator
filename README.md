@@ -2,6 +2,10 @@
 
 This BMI (Body Mass Index) Calculator is a simple web application that allows users to calculate their BMI and view their BMI history.
 
+## Usage
+
+Once you download the project go to terminal in your IDE and run this command "**_node root.js_**" and open this link **_http://localhost:3000_**. 
+
 ## Features
 
 - Calculate BMI based on user input (height, weight, age, gender, and unit).
